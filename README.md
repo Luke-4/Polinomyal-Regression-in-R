@@ -13,8 +13,7 @@ Model 1: y=θ_1 Χ_1^3+θ_2 Χ_2^5+θ_bias+ϵ
 Model 2: y=θ_1 Χ_1^4+θ_2 Χ_2^2+θ_bias+ϵ   
 Model 3: y=θ_1 Χ_1^3+θ_2 Χ_2+θ_3 Χ_1+θ_bias+ϵ   
 Model 4: y=θ_1 Χ_1+θ_2 Χ_1^2+θ_3 Χ_1^3+θ_4 Χ_2^3+θ_bias+ϵ  
-Model 5: y=θ_1 Χ_1^3+θ_2 Χ_1^4+θ_3 Χ_2+θ_bias+ϵ  
-
+Model 5: y=θ_1 Χ_1^3+θ_2 Χ_1^4+θ_3 Χ_2+θ_bias+ϵ
      - Data preprocessing
        - Iniciate LabelIndexer and OneHotEncoder classes of pyspark.ml.feature library (transform categorical features into numerical representations) 
        - Iniciate a VectorAssembler class of pyspark.ml.feature library (combining the columns into a single column)
