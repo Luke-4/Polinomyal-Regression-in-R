@@ -1,7 +1,7 @@
 # Modelling EEG signals using Polinomyal Regression in R
 
   1. Task 1 - Preliminary data analysis 
-     - Analysis of time series plots (of audio and EEG signals)	
+     - Analysis of time series plots (audio and EEG signals)	
      - Analysis of the distribution for each signal	
      - Outlier detection	
      - Analysis of correlation and scatter plots (between the audio and brain signals)
